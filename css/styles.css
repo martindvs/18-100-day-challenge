@@ -96,6 +96,7 @@ img {
 h1 {
   font-family: var(--font-young);
   font-size: 250%;
+  color: var(--dark-charcoal);
 }
 
 p {
